@@ -13,8 +13,6 @@ public class MemberDao {
 	public void updateMember() {
 		System.out.println("수정");
 	}
-	public void select() {
-		System.out.println("gg");
-	}
+	
 
 }
